@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Destructio
-- 👀 I’m interested in open source code
-- 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on any Android Project
-- 📫 How to reach me easily - email
+## Greetings, %username% 👋
+- 🐼 I'm Tim - aka @Destructio
+- 🇷🇺 I'm from Russia, Moscow
+- ♿ Currently working on a [Bootleg Project][current-project]
+- 👨‍🎓 Currently learning Kotlin, Java
+- ❓ Wanna DM me? [<img alt="Destructi0 | Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0.svg?logo=telegram&style=for-the-badge" />][telegram]
 
-<!---
-Destructio/Destructio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[current-project]: https://github.com/Destructio/Bootleg_Project
