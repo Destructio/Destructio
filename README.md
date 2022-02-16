@@ -1,12 +1,12 @@
 ## Greetings, %username% 👋
-- 🐼 I'm Tim - aka @Destructio
+- 🐼 My name is Tim - aka @Destructio
 - 🇷🇺 I'm from Russia, Moscow
-- ♿ Currently working on a [DestructioBot][current-project]
-- 👨‍🎓 Currently learning Kotlin, Java
+- ♿ My WIP project - [study relaited projects][current-project]
+- 👨‍🎓 At this moment I learning - Python, Kotlin
 - 💼 Open for any offers
 
-## 📞 Contact with me:
+## 📞 If you want to DM me:
 [<img alt="Destructi0 | Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0.svg?logo=telegram&style=for-the-badge"/>][telegram]
 
-[current-project]: https://github.com/Destructio/DestructioBot
+[current-project]: https://github.com/Destructio/MyPythonProjects
 [telegram]: https://t.me/Destructi0
